@@ -2,23 +2,23 @@
 For this homework I am using JavaScript to generate a password based on user criteria. 
 
 
-GIVEN I need a new, secure password
-WHEN I click the button to generate a password
-THEN I am presented with a series of prompts for password criteria
+Given user need a new, secure password
+When user clicks the button to generate a password
+Then ser are presented with a series of prompts for password criteria
 
-WHEN prompted for password criteria
-THEN I select which criteria to include in the password
+When user are prompted for password criteria
+Then user will select which criteria to include in the password
 
-WHEN prompted for the length of the password
-THEN I choose a length of at least 8 characters and no more than 128 characters
+When user are prompted for the length of the password
+Then user will choose a length of at least 8 characters and no more than 128 characters
 
-WHEN prompted for character types to include in the password
-THEN I choose lowercase, uppercase, numeric, and/or special characters
+When user are prompted for character types to include in the password
+Then user will choose at least one lowercase, one uppercase, one numeric, and/or one special character
 
-WHEN I answer each prompt
-THEN my input should be validated and at least one character type should be selected
-WHEN all prompts are answered
+Whem user answer each prompt
+Then their input should be validated and at least one character type should be selected
+When all prompts are answered
 
-THEN a password is generated that matches the selected criteria
-WHEN the password is generated
-THEN the password is either displayed in an alert or written to the page
+Then a password is generated that matches the selected criteria
+When the password is generated
+Then the password is either displayed in an alert or written to the page
