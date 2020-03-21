@@ -1,3 +1,5 @@
+Deployed live website:  https://jguerra21.github.io/password-generator/homework-3/index.html
+
 # password-generator
 For this homework I am using JavaScript to generate a password based on user criteria. My goal is to create a functional password generator for users to be able to generate a new password that is required to have, Lowercase, Uppercase, Numbers and Numeric numbers.
 I have used all the steps given to me on a ReadMe file in order to follow the steps in order and complete the final work. 
